@@ -1,0 +1,1 @@
+Sitemap: https://tom-rb.github.io/coding-thoughts/sitemap.xml
